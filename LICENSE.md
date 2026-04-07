@@ -8,7 +8,7 @@ No rights are granted for operational, executable, or deployment use.
 
 ---
 
-## > [!CAUTION]
+> ## [!CAUTION]
 > This project contains concepts and code structures that resemble advanced offensive cybersecurity capabilities.
 > Improper use may result in system compromise, data loss, or legal consequences.
 
@@ -27,7 +27,7 @@ The following actions are strictly prohibited:
 
 ---
 
-## > [!WARNING]
+> ## [!WARNING]
 > Unauthorized use of this material may violate applicable laws, including but not limited to:
 > - Computer misuse and unauthorized access laws  
 > - Cybercrime and anti-hacking statutes  
@@ -61,7 +61,7 @@ The only permitted uses of this repository are:
 
 ---
 
-## > [!IMPORTANT]
+> ## [!IMPORTANT]
 > This repository is not intended to function as software.
 > It is a conceptual and educational artifact demonstrating how complex, multi-stage attack frameworks could be structured.
 
