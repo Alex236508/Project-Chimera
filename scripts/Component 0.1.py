@@ -1,3 +1,10 @@
+# -----------------------------------------------------------------------------------|
+#                                                                                    |
+# MODULE 0: THE SEED - INITIAL VECTOR & SUBVERSION                                   |
+# The entry point isn't malware—it's trust. We weaponize the software supply chain.  |
+#                                                                                    |
+# -----------------------------------------------------------------------------------|
+
 # setup.py in a legitimate-looking open-source library (e.g., "py-data-utils")
 from setuptools import setup
 import os, sys, platform, subprocess, hashlib, base64
