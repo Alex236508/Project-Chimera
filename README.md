@@ -46,7 +46,7 @@ any part of this framework **without explicit authorization** may violate:
 - Unauthorized access laws
 - Cybercrime statutes
 
-👉 This can result in **criminal charges, fines, or imprisonment**.
+>> This can result in **criminal charges, fines, or imprisonment**.
 
 ---
 
