@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------------|
 #                                                                                    |
 # MODULE 0: THE SEED - INITIAL VECTOR & SUBVERSION                                   |
-# The entry point isn't malware—it's trust. We weaponize the software supply chain.  |
+# The entry point isn't malware it's trust. We weaponize the software supply chain.  |
 #                                                                                    |
 # -----------------------------------------------------------------------------------|
 
