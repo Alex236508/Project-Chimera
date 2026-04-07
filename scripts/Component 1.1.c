@@ -1,7 +1,7 @@
 // -----------------------------------------------------------------------------------|
 //                                                                                    |
 // MODULE 1: KERNEL-LEVEL ROOTKIT - "SPECTRE"                                         |
-// Once initial access is achieved, we establish kernel dominance.                    |
+// Once initial access is achieved we establish kernel dominance.                    |
 //                                                                                    |
 // -----------------------------------------------------------------------------------|
 
