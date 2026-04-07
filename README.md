@@ -10,7 +10,7 @@ This is **NOT a tool**, **NOT a toy**, and **NOT safe to experiment with**.
 ---
 > [!note]
 >  What This Is
-
+>
 PROJECT CHIMERA is a conceptual framework that models:
 
 - Multi-layer persistence (userland, kernel, firmware)
@@ -24,7 +24,7 @@ It represents **high-risk, real-world attack methodologies**.
 ---
 > [!warning]
 > What This Is NOT
-
+>
 - ❌ Not a prank tool  
 - ❌ Not safe to “try on your own system”  
 - ❌ Not something to test on friends or networks  
@@ -33,7 +33,7 @@ It represents **high-risk, real-world attack methodologies**.
 ---
 > [!important]
 > Legal & Ethical Notice
-
+>
 Attempting to:
 - Compile
 - Execute
@@ -52,7 +52,7 @@ any part of this framework **without explicit authorization** may violate:
 
 > [!caution]
 > Real Risks
-
+>
 Even incomplete or modified versions could:
 
 - Damage your own system
@@ -62,8 +62,8 @@ Even incomplete or modified versions could:
 - Cause irreversible system instability
 
 ---
-> [!tip]
-> Bottom Line
+> [!important]
+>
 
 > If you do not fully understand **every layer of operating systems, networking, and security**, you should not interact with this beyond reading.
 
@@ -85,7 +85,7 @@ This material should only be used for:
 
 > [!note]
 > If You Found This Unexpectedly
-
+>
 - Do NOT run anything
 - Do NOT install dependencies
 - Do NOT “test it out”
@@ -95,6 +95,7 @@ Simply remove it or archive it safely.
 ---
 > [!warning]
 > Final Warning
+>
 
 > This project demonstrates how systems can be compromised at multiple levels.
 
