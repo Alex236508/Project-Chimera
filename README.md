@@ -63,8 +63,6 @@ Even incomplete or modified versions could:
 
 ---
 > [!important]
->
-
 > If you do not fully understand **every layer of operating systems, networking, and security**, you should not interact with this beyond reading.
 
 Even if you *do* understand it:
