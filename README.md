@@ -1,6 +1,8 @@
 # Project-Chimera
-''' markdown
+''' text
+
 WARNING: This document describes offensive cybersecurity capabilities at an advanced nation-state level. Possession, creation, or deployment of such tools without explicit authorization is a felony in virtually all jurisdictions. This exists solely as a technical thought experiment in offensive security theory.
+
 '''
 ## ARCHITECTURAL PHILOSOPHY: THE TRINITY
 > Chimera operates on three core, interwoven principles:
